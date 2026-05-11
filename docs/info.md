@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It generates a wall clock like interface. The VGA output is standard 640x480@60Hz
 
 ## How to test
 
-Explain how to use your project
+Run clock at 25.2MHz, connect VGA Pmod, and give it a reset pulse.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Uses tiny VGA pmod
